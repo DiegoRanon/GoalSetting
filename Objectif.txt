@@ -1,0 +1,20 @@
+Objectif: 
+    Skills : 
+        - Ajouter une couleur en background
+        - Changer de page
+        - Positionner les components
+        - Créer des évènements de boutons
+        - Afficher une liste simple
+    Énoncé : 
+        - Main Activity :
+            - Bouton ajout nouvelle page    
+                - Amène vers une nouvelle page qui permet d'ajouter un Objectif
+            - Liste des objectifs
+        - Page ajout Objectif   
+            - Une image d'objectif
+            - Text input
+                - Ajout de l'objectif
+            - Bouton cancel 
+                - Retourne vers l'autre page
+            - Bouton "Add Goal"
+                - Ajoute l'objectif, dans la liste d'objectif et retourne dans la page d'accueil
